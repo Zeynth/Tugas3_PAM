@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PAM Acitivity Intent</string>
+    <string name="Home">Beranda</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="fname">Nama Depan</string>
+    <string name="lname">Name Belakang</string>
+    <string name="confirmpassword">Konfirmasi Kata Sandi</string>
+    <string name="number">Nomor Telepon</string>
+    <string name="Favorite">Kesukaan</string>
+    <string name="Search">Cari</string>
+    <string name="Profile">Profil</string>
+    <string name="createacc">Buat Akun</string>
+</resources>
